@@ -1,0 +1,27 @@
+{
+  "name": "webme.pro",
+  "version": "0.0.1",
+  "description": "site",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webmepro/webme.pro.git"
+  },
+  "author": "Sosnovsky Alexey <sosnovsky.as@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webmepro/webme.pro/issues"
+  },
+  "homepage": "https://github.com/webmepro/webme.pro#readme",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jade": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-webserver": "^0.9.1"
+  }
+}

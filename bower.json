@@ -1,0 +1,26 @@
+{
+  "name": "webme.pro",
+  "version": "0.0.1",
+  "homepage": "https://github.com/webmepro/webme.pro",
+  "authors": [
+    "Sosnovsky Alexey <sosnovsky.as@gmail.com>"
+  ],
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-ui-router": "~0.2.15",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
